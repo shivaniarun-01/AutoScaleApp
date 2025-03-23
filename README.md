@@ -1,0 +1,2 @@
+This project aims to monitor CPU and memory usage on a local VM(Kali Linux in VirtualBox) and automatically scale up by deploying a new VM on Google Cloud Platform (GCP) when resource utilization exceeds 75%. Conversely, when resource usage drops below 50%, the GCP instance is stopped to optimize cost and performance.
+The detailed document can be found at https://docs.google.com/document/d/1CeY_dians2mLoLUnwc5WhvlOlf93-9G1fyDsczRnlIw/edit?tab=t.0
